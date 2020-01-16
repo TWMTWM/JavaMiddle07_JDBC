@@ -18,7 +18,7 @@ public class Test04 {
 			Class.forName("com.mysql.jdbc.Driver");
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e.printStackTrace(); 
 		}
 		
 		try(
